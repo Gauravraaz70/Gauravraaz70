@@ -27,7 +27,7 @@ I'm Gaurav Raj, a 3rd-year B.Tech student specializing in AI/ML at LNCT Group of
     <td width="50%" valign="top">
 
 ### 🔝 Top Public Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=Gauravraaz70&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Gauravraaz70&count_private=false&show_icons=false&hide_title=true&hide_rank=true&include_all_commits=true&theme=tokyonight)
 
     </td>
     <td width="50%" valign="top">
