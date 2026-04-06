@@ -26,18 +26,5 @@ I'm Gaurav Raj, a 3rd-year B.Tech student specializing in AI/ML at LNCT Group of
   <tr>
     <td width="50%" valign="top">
 
-### 🔝 Top Public Contributed Repos
-<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
-  <span style="display:inline-block; width: 160px; margin: 0 20px; text-align: center;">
-    <h3>Public Commits</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=Gauravraaz70&count_private=false&show_icons=false&hide_title=true&hide_rank=true&include_all_commits=true&theme=tokyonight" alt="Public Commits" />
-  </span>
-
-  <span style="display:inline-block; width: 160px; margin: 0 20px; text-align: center;">
-    <h3>Private Commits</h3>
-    <img src="https://img.shields.io/badge/Manual-50-red?style=for-the-badge" alt="Private commits" />
-  </span>
-
-</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
