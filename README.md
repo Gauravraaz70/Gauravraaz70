@@ -19,18 +19,28 @@ I'm Gaurav Raj, a 3rd-year B.Tech student specializing in AI/ML at LNCT Group of
   <img src="https://streak-stats.demolab.com?user=Gauravraaz70&theme=tokyonight&hide_border=true&cache_seconds=10" height="270"/>
 </p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gauravraaz70&theme=radical&no-frame=false&no-bg=false&margin-w=10&column=5" alt="Gauravraaz70 GitHub Trophies" />
-</p>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🔝 Top Public Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=Gauravraaz70&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Gauravraaz70&icon=0&color=0)](https://visitcount.itsvg.in)
+    </td>
+    <td width="50%" valign="top">
+
+### 🔒 Private Projects (Manual List)
+| Project Name     | Description                 |
+|------------------|-----------------------------|
+| PrivateRepo1     | AI/ML model for image recognition |
+| PrivateRepo2     | Mobile app for personal finance  |
+| PrivateRepo3     | Custom backend API for analytics |
+
+    </td>
+  </tr>
+</table>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
