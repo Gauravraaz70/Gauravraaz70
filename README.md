@@ -31,17 +31,23 @@ I'm Gaurav Raj, a 3rd-year B.Tech student specializing in AI/ML at LNCT Group of
 
     </td>
     <td width="50%" valign="top">
-### 🔝 Top Public Contributed Repos
+<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px;">
 
-<p float="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Gauravraaz70&limit=5&theme=dark&combine_all_yearly_contributions=true" width="48%" />
-  <div style="width:48%;display:inline-block;vertical-align:top; padding-left:10px;">
-  
-  ### 🔒 Private Projects (Manual List)
-  - **PrivateRepo1**: AI/ML model for image recognition  
-  - **PrivateRepo2**: Mobile app for personal finance  
-  - **PrivateRepo3**: Custom backend API for analytics  
-  
-  </div>
+<span style="display:inline-block; width: 120px; margin: 0 30px; text-align: center;">
+  <strong style="font-size: 28px; color: #58a6ff;">
+    <!-- Public commits from badge -->
+    <img src="https://img.shields.io/badge/Public_Commits-182-blue" alt="Public commits" style="vertical-align: middle; margin-right: 5px;">
+  </strong><br/>
+  Total Public Commits
+</span>
+
+<span style="display:inline-block; width: 120px; margin: 0 30px; text-align: center;">
+  <strong style="font-size: 28px; color: #d16b6b;">
+    <!-- Manual private commits number -->
+    50
+  </strong><br/>
+  Total Private Commits
+</span>
+
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
