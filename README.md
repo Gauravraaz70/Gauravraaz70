@@ -15,7 +15,7 @@ I'm Gaurav Raj, a 3rd-year B.Tech student specializing in AI/ML at LNCT Group of
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gauravraaz70&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=10" height="170"/>
+ 
   <img src="https://streak-stats.demolab.com?user=Gauravraaz70&theme=tokyonight&hide_border=true&cache_seconds=10" height="170"/>
 </p>
 
