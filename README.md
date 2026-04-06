@@ -11,7 +11,7 @@ I'm Gaurav Raj, a 3rd-year B.Tech student specializing in AI/ML at LNCT Group of
 # 📊 GitHub Stats:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravraaz70&label=Profile%20views&color=0e75b6&style=flat" alt="gauravraaz70" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravraaz70&show_icons=true&locale=en" alt="gauravraaz70" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravraaz70&" alt="gauravraaz70" />
 
