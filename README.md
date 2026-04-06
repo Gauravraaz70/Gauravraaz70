@@ -20,8 +20,8 @@ I'm Gaurav Raj, a 3rd-year B.Tech student specializing in AI/ML at LNCT Group of
 </p>
 
 ## 🏆 GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gauravraaz70&theme=radical&no-frame=false&no-bg=false&margin-w=4&rank=-1" alt="Gauravraaz70 GitHub Trophies" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gauravraaz70&theme=radical&no-frame=false&no-bg=false&margin-w=10&column=5" alt="Gauravraaz70 GitHub Trophies" />
 </p>
 
 ### ✍️ Random Dev Quote
