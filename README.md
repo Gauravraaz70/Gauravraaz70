@@ -5,7 +5,7 @@ I'm Gaurav Raj, a 3rd-year B.Tech student specializing in AI/ML at LNCT Group of
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Gauravraaz70) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/Its_gauravraaz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gaurav-raj-153538298/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauravraaz7050@gmail.com) 
 
-# Profile Views:-
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravraaz70&label=Profile%20views&color=0e75b6&style=flat" alt="gauravraaz70" /> </p>
 
 # 💻 Tech Stack:
