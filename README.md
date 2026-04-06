@@ -31,16 +31,17 @@ I'm Gaurav Raj, a 3rd-year B.Tech student specializing in AI/ML at LNCT Group of
 
     </td>
     <td width="50%" valign="top">
+### 🔝 Top Public Contributed Repos
 
-### 🔒 Private Projects (Manual List)
-| Project Name     | Description                 |
-|------------------|-----------------------------|
-| PrivateRepo1     | AI/ML model for image recognition |
-| PrivateRepo2     | Mobile app for personal finance  |
-| PrivateRepo3     | Custom backend API for analytics |
-
-    </td>
-  </tr>
-</table>
-
+<p float="left">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Gauravraaz70&limit=5&theme=dark&combine_all_yearly_contributions=true" width="48%" />
+  <div style="width:48%;display:inline-block;vertical-align:top; padding-left:10px;">
+  
+  ### 🔒 Private Projects (Manual List)
+  - **PrivateRepo1**: AI/ML model for image recognition  
+  - **PrivateRepo2**: Mobile app for personal finance  
+  - **PrivateRepo3**: Custom backend API for analytics  
+  
+  </div>
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
