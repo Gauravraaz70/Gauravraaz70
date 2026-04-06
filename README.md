@@ -27,27 +27,17 @@ I'm Gaurav Raj, a 3rd-year B.Tech student specializing in AI/ML at LNCT Group of
     <td width="50%" valign="top">
 
 ### 🔝 Top Public Contributed Repos
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Gauravraaz70&count_private=false&show_icons=false&hide_title=true&hide_rank=true&include_all_commits=true&theme=tokyonight)
+<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
-    </td>
-    <td width="50%" valign="top">
-<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px;">
+  <span style="display:inline-block; width: 160px; margin: 0 20px; text-align: center;">
+    <h3>Public Commits</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=Gauravraaz70&count_private=false&show_icons=false&hide_title=true&hide_rank=true&include_all_commits=true&theme=tokyonight" alt="Public Commits" />
+  </span>
 
-<span style="display:inline-block; width: 120px; margin: 0 30px; text-align: center;">
-  <strong style="font-size: 28px; color: #58a6ff;">
-    <!-- Public commits from badge -->
-    <img src="https://img.shields.io/badge/Public_Commits-182-blue" alt="Public commits" style="vertical-align: middle; margin-right: 5px;">
-  </strong><br/>
-  Total Public Commits
-</span>
-
-<span style="display:inline-block; width: 120px; margin: 0 30px; text-align: center;">
-  <strong style="font-size: 28px; color: #d16b6b;">
-    <!-- Manual private commits number -->
-    50
-  </strong><br/>
-  Total Private Commits
-</span>
+  <span style="display:inline-block; width: 160px; margin: 0 20px; text-align: center;">
+    <h3>Private Commits</h3>
+    <img src="https://img.shields.io/badge/Manual-50-red?style=for-the-badge" alt="Private commits" />
+  </span>
 
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
