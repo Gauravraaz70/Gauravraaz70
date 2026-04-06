@@ -14,9 +14,9 @@ I'm Gaurav Raj, a 3rd-year B.Tech student specializing in AI/ML at LNCT Group of
   <img src="https://komarev.com/ghpvc/?username=Gauravraaz70&label=Profile%20views&color=0e75b6&style=flat" alt="Gauravraaz70" />
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gauravraaz70&show_icons=true&theme=tokyonight&cache_seconds=0)
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gauravraaz70&theme=tokyonight" alt="Gauravraaz70" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gauravraaz70&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=10" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Gauravraaz70&theme=tokyonight&hide_border=true&cache_seconds=10" height="170"/>
 </p>
 
 ## 🏆 GitHub Trophies
